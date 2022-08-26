@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya Aka FragNite</h1>
 
 ## 💫 About Me:<br>
-- 🌱 I’m currently learning React, C++. Nextjs<br>
+- 🌱 I’m currently learning React, C++, Nextjs<br>
 - 👨‍💻 All of my projects are available at https://fragnite.vercel.app/<br>
 - ⚡ Fun fact JavaScript>>>Python
 
