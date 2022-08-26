@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arya Aka FragNite</h1>
 # 💫 About Me:
-- 🌱 I’m currently learning **React.Js, C++**<br>- 👨‍💻 All of my projects are available at [fragnite.live](https://fragnite.vercel.app)<br>- ⚡ Fun fact **JavaScript>>>Python**
-
+- 🌱 I’m currently learning **React, C++. Nextjs**
+- 👨‍💻 All of my projects are available at [fragnite.vercel.app](https://fragnite.vercel.app/)
+- ⚡ Fun fact **JavaScript>>>Python**
 
 ## 🌐 Connect With me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arya.s_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arya_7976) 
@@ -25,5 +26,5 @@
 <div align="center">
 <a href="https://github.com/Arya0077" alt="https://github.com/Arya0077"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub"></a>
 <img src="https://img.shields.io/github/license/Arya0077/Arya0077?style=for-the-badge">
-![](https://visitcount.itsvg.in/api?id=Arya0077&icon=6&color=12)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=arya0077&label=Profile%20views&color=0e75b6&style=flat" alt="arya0077" />
 </div>
