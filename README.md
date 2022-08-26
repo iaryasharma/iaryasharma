@@ -25,7 +25,6 @@
 
 ---
 <div align="center">
-<a href="https://github.com/Arya0077" alt="https://github.com/Arya0077"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub"></a>
-<img src="https://img.shields.io/github/license/Arya0077/Arya0077?style=for-the-badge"><br>
+<a href="https://github.com/Arya0077" alt="https://github.com/Arya0077"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub"></a><br>
 <img src="https://komarev.com/ghpvc/?username=arya0077&label=Profile%20views&color=0e75b6&style=flat" alt="arya0077" />
 </div>
