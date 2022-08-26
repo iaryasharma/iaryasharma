@@ -27,8 +27,8 @@
 <br>
   
 ![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=arya0077&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&exclude_repo=genzographics.github.io,mrwow.github.io,mickysahni.github.io&langs_count=8)
-
-## 📊 *Repo Stats - *
+<div>
+## 📊 Repo Stats -
 <div align="center">
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/ItzzNeo13/ItzzNeo13.svg?style=for-the-badge">
