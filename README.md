@@ -23,6 +23,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### Spotify Activity - 
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=khk9h3gdas7zznheuplfbprdc&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=khk9h3gdas7zznheuplfbprdc&cover_image=true&theme=novatorem&bar_color=29faaa&bar_color_cover=false)]]
+#
 ---
 <div align="center">
 <a href="https://github.com/Arya0077" alt="https://github.com/Arya0077"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub"></a><br>
