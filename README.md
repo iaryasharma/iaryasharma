@@ -25,7 +25,7 @@
 
 ### Spotify Activity - 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=khk9h3gdas7zznheuplfbprdc&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=khk9h3gdas7zznheuplfbprdc&cover_image=true&theme=novatorem&bar_color=29faaa&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&cover_image=true&theme=novatorem&bar_color=29faaa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&redirect=true)
 #
 ---
 <div align="center">
