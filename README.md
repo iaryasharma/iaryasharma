@@ -20,13 +20,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arya0077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### Spotify Activity - 
+## Spotify Activity - 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&cover_image=true&theme=novatorem&bar_color=29faaa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&redirect=true)
 #
