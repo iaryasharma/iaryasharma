@@ -6,7 +6,7 @@
 - ⚡ Fun fact JavaScript>>>Python
 
 ## 🌐 Connect With me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arya.s_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arya_7976) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arya.s_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryasharma07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arya_7976) 
 
 ![Discord](https://discord.c99.nl/widget/theme-3/730424922639302693.png)
 
@@ -29,6 +29,12 @@
 ## 🎧 Spotify Activity - 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&cover_image=true&theme=novatorem&bar_color=29faaa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&redirect=true)
+
+###
+
+<img src="https://raw.githubusercontent.com/arya0077/arya0077/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 <div align="center">
