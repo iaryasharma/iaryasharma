@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arya0077&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya0077&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=demonwebsite.github.io,mickysahni.github.io,genzographics.github.io,mrwow.github.io)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arya0077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
@@ -26,10 +26,10 @@
 ## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## Spotify Activity - 
+## 🎧 Spotify Activity - 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&cover_image=true&theme=novatorem&bar_color=29faaa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=khk9h3gdas7zznheuplfbprdc&redirect=true)
-#
+
 ---
 <div align="center">
 <a href="https://github.com/Arya0077" alt="https://github.com/Arya0077"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub"></a><br>
