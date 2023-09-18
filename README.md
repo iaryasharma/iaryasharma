@@ -3,6 +3,7 @@
 ## 💫 About Me:<br>
 - 🌱 I’m currently learning React, C++, Nextjs<br>
 - 👨‍💻 All of my projects are available at https://fragnite.vercel.app/<br>
+- 🛅 PassX - a password managing app https://arya0077passx.vercel.app/
 - ⚡ Fun fact JavaScript>>>Python
 
 ## 🌐 Connect With me:
