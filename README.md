@@ -5,6 +5,7 @@
 - 👨‍💻 All of my projects are available at https://fragnite.vercel.app/<br>
 - 🛅 PassX - a password managing app https://arya0077passx.vercel.app/
 - ⚡ Fun fact JavaScript>>>Python
+- 🌭 My dream: `while(sleeping){money++;}`
 
 ## 🌐 Connect With me:
 <a href="https://instagram.com/arya.s_007" target="_blank">
