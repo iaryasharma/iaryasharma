@@ -33,7 +33,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ##
-<img src="https://raw.githubusercontent.com/arya0077/arya0077/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arya0077/arya0077/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 ---
