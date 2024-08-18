@@ -32,10 +32,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-##
-<img src="https://github.com/arya0077/arya0077/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-
 ---
 <div align="center">
 <a href="https://github.com/Arya0077" alt="https://github.com/Arya0077"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub"></a><br>
