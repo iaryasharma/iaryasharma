@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arya0077&theme=radical&hshow_icons=true&locale=en&border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya0077&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=demonwebsite.github.io,mickysahni.github.io,genzographics.github.io,mrwow.github.io,date,anindita-birthday,valentine,happy-birthday-aarya,rose-day)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arya0077&theme=radical&border=7F3FBF&background=0D1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arya0077&theme=radical)
 
 
 # 🏆 GitHub Trophies
