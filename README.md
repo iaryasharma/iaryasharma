@@ -53,10 +53,10 @@
 <td width="50%" align="center">
   
   <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arya0077&theme=radical&show_icons=true&count_private=true" alt="Arya's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaryasharma&theme=radical&show_icons=true&count_private=true" alt="Arya's GitHub Stats" />
   <br><br>
   <!-- GitHub Streak Stats -->
-  <img alt="Arya's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Arya0077&theme=radical&hide_border=false" />
+  <img alt="Arya's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iaryasharma&theme=radical&hide_border=false" />
   
 
 </td>
@@ -64,10 +64,10 @@
 <td width="50%" align="center">
 
   <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arya0077&theme=radical&hide=procfile,shell&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iaryasharma&theme=radical&hide=procfile,shell&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="Top Languages" />
   <br><br>
   <!-- Profile Summary Card -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arya0077&theme=radical" alt="Profile Summary Card" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaryasharma&theme=radical" alt="Profile Summary Card" />
   
 </td>
 </tr>
@@ -77,7 +77,7 @@
 <!-- GitHub Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Arya0077&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=iaryasharma&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
@@ -89,8 +89,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Arya0077" alt="https://github.com/Arya0077">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Arya0077&color=000000&logo=GitHub" alt="Created by Arya0077" />
+  <a href="https://github.com/iaryasharma" alt="https://github.com/iaryasharma">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=iaryasharma&color=000000&logo=GitHub" alt="Created by Arya" />
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=arya0077&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iaryasharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
