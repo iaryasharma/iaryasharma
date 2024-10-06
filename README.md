@@ -13,14 +13,14 @@
 - 👨‍💻 **Explore My Projects:** [Portfolio](https://fragnite.vercel.app/)
 - 🛅 **Password Manager:** [PassX - A Password Managing App](https://passwordx.vercel.app/)
 - 🌭 **Dream:** `while(sleeping){money++;}`
+- 📫 How to reach me aryasharma7717@gmail.com
 
 ## 🌐 Connect with Me:
-<p align="center">
-<a href="https://twitter.com/iaryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaryasharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iaryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iaryasharma" height="30" width="40" /></a>
+<p align="left">
 <a href="https://instagram.com/i.aryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.aryasharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iaryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iaryasharma" height="30" width="40" /></a>
+<a href="https://twitter.com/iaryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaryasharma" height="30" width="40" /></a>
 </p>
-
 
 ## 🛠️ Technologies & Tools:
 <p align="center">
