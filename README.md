@@ -38,9 +38,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-
-  [![An image of @Arya0077's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@arya0077)](https://www.holopin.io/@arya0077)
 </p>
+[![An image of @Arya0077's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@arya0077)](https://www.holopin.io/@arya0077)
 
 ## 📊 GitHub Stats:
 <p align="center">
