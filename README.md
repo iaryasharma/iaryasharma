@@ -16,15 +16,9 @@
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://instagram.com/arya.s_007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-  <a href="https://linkedin.com/in/aryasharma07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://twitter.com/Arya_7976" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-  </a>
+<a href="https://twitter.com/iaryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaryasharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iaryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iaryasharma" height="30" width="40" /></a>
+<a href="https://instagram.com/i.aryasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.aryasharma" height="30" width="40" /></a>
 </p>
 
 
@@ -44,6 +38,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  [![An image of @Arya0077's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@arya0077)](https://www.holopin.io/@arya0077)
 </p>
 
 ## 📊 GitHub Stats:
