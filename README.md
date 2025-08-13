@@ -13,7 +13,7 @@
 ## 💼 About Me
 - 🎓 **Education:** B.Tech in Computer Science, specializing in AI & ML (2022-2026), JECRC University.  
 - 🌱 **Current Focus:** React.js, Next.js, R Programming, and Advanced Java.  
-- 🏆 **Key Projects:** [PassX](https://passwordx.vercel.app/)  
+- 🏆 **Key Projects:** [Chargeway](https://chargeway.vercel.app/)  
 - 🚀 **Future Goals:** Building impactful AI-driven SaaS platforms and web applications.  
 - ✨ **Fun Fact:** I believe in `while(sleeping) { money++; }` 😄
 
